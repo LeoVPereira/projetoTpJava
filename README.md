@@ -24,6 +24,7 @@ significativa para o contexto escolhido.
 de situações relevantes para o contexto de negócio.
 
 Implementação do projeto:
+- O projeto foi implementado utilizando a IDE IntelliJ IDEA com o Gerenciador de Dependências Gradle.
 - O negócio escolhido para esse projeto foi uma Empresa.
 - A classe criada foi Funcionário.
 - A classe Funcionário possui 6 atributos, 1 função construtora, getters e setters para todos os atributos, além de 2 métodos criados para calcular a composição do salário do funcionário
