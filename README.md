@@ -1,6 +1,6 @@
-#Projeto do Teste de Performance 01 | Desenvolvimento de Serviços Web e Testes com Java 
+Projeto do Teste de Performance 01 | Desenvolvimento de Serviços Web e Testes com Java 
 
-##Propostas do projeto:
+Propostas do projeto:
 
   - Preparação do Ambiente:
     Instale o kit de desenvolvimento Java JDK em sua máquina. Instale e configure a IDE IntelliJ IDEA em seu ambiente de desenvolvimento.
@@ -23,7 +23,7 @@ significativa para o contexto escolhido.
     Instancie quantos objetos forem necessários para contemplar todas as possíveis condições existentes no método criado. Verifique se os objetos instanciados abrangem uma variedade
 de situações relevantes para o contexto de negócio.
 
-###Implementação do projeto:
+Implementação do projeto:
 - O negócio escolhido para esse projeto foi uma Empresa.
 - A classe criada foi Funcionário.
 - A classe Funcionário possui 6 atributos, 1 função construtora, getters e setters para todos os atributos, além de 2 métodos criados para calcular a composição do salário do funcionário
