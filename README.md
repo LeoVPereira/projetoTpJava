@@ -30,3 +30,5 @@ Implementação do projeto:
 instanciado.
 - Um método aplica um adicional no salário por tempo de serviço.
 - O outro calcula o salario final considerando o salário base, adicional de tempo de serviço e adicional noturno (quando o funcionário faz jus).
+- Na classe principal foram instanciados 8 objetos da classe Funcionário contemplando combinações diferentes de atributos trazendo diferentes resultados
+nos métodos destinados ao cálculo do salário.
